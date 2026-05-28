@@ -22,7 +22,7 @@
 Ошибка в написании бренда на главной странице снижает доверие к сервису
 
 **Скриншот:**  
-![опечатка Учи.у](https://github.com/IngaSam/uchiru_testing/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-04-15%20142610.png)
+![опечатка Учи.у](https://github.com/IngaSam/uchiru_testing/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-04-15%20142610.png)
 
 ---
 
@@ -52,4 +52,4 @@
 Баг полностью блокирует возможность входа для всех пользователей. Пользователь не понимает, куда вводить логин, а куда — пароль.
 
 **Скриншот:**  
-![отсутствует поле пароля](https://github.com/IngaSam/uchiru_testing/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-04-15%20151814.png)
+![отсутствует поле пароля](https://github.com/IngaSam/uchiru_testing/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-04-15%20151814.png)
